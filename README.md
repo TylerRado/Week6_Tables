@@ -2,6 +2,7 @@
 Install relevent Packages
 
 npm init -y
+
 npm install express mysql2 dotenv.
 
 copy and paste the CODE
